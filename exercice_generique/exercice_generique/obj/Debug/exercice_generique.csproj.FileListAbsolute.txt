@@ -1,0 +1,8 @@
+C:\Users\ASUS I7\OneDrive\Desktop\frameworks .NET\TP1\exercice_generique\exercice_generique\obj\Debug\exercice_generique.csproj.AssemblyReference.cache
+C:\Users\ASUS I7\OneDrive\Desktop\frameworks .NET\TP1\exercice_generique\exercice_generique\obj\Debug\exercice_generique.csproj.SuggestedBindingRedirects.cache
+C:\Users\ASUS I7\OneDrive\Desktop\frameworks .NET\TP1\exercice_generique\exercice_generique\obj\Debug\exercice_generique.csproj.CoreCompileInputs.cache
+C:\Users\ASUS I7\OneDrive\Desktop\frameworks .NET\TP1\exercice_generique\exercice_generique\bin\Debug\exercice_generique.exe.config
+C:\Users\ASUS I7\OneDrive\Desktop\frameworks .NET\TP1\exercice_generique\exercice_generique\bin\Debug\exercice_generique.exe
+C:\Users\ASUS I7\OneDrive\Desktop\frameworks .NET\TP1\exercice_generique\exercice_generique\bin\Debug\exercice_generique.pdb
+C:\Users\ASUS I7\OneDrive\Desktop\frameworks .NET\TP1\exercice_generique\exercice_generique\obj\Debug\exercice_generique.exe
+C:\Users\ASUS I7\OneDrive\Desktop\frameworks .NET\TP1\exercice_generique\exercice_generique\obj\Debug\exercice_generique.pdb

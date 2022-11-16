@@ -1,0 +1,8 @@
+C:\Users\ASUS I7\OneDrive\Desktop\frameworks .NET\TP1\exeo_Extension\exeo_Extension\bin\Debug\exeo_Extension.exe.config
+C:\Users\ASUS I7\OneDrive\Desktop\frameworks .NET\TP1\exeo_Extension\exeo_Extension\bin\Debug\exeo_Extension.exe
+C:\Users\ASUS I7\OneDrive\Desktop\frameworks .NET\TP1\exeo_Extension\exeo_Extension\bin\Debug\exeo_Extension.pdb
+C:\Users\ASUS I7\OneDrive\Desktop\frameworks .NET\TP1\exeo_Extension\exeo_Extension\obj\Debug\exeo_Extension.csproj.AssemblyReference.cache
+C:\Users\ASUS I7\OneDrive\Desktop\frameworks .NET\TP1\exeo_Extension\exeo_Extension\obj\Debug\exeo_Extension.csproj.SuggestedBindingRedirects.cache
+C:\Users\ASUS I7\OneDrive\Desktop\frameworks .NET\TP1\exeo_Extension\exeo_Extension\obj\Debug\exeo_Extension.csproj.CoreCompileInputs.cache
+C:\Users\ASUS I7\OneDrive\Desktop\frameworks .NET\TP1\exeo_Extension\exeo_Extension\obj\Debug\exeo_Extension.exe
+C:\Users\ASUS I7\OneDrive\Desktop\frameworks .NET\TP1\exeo_Extension\exeo_Extension\obj\Debug\exeo_Extension.pdb

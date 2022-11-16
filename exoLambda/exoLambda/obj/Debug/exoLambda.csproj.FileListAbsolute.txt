@@ -1,0 +1,8 @@
+C:\Users\ASUS I7\OneDrive\Desktop\frameworks .NET\TP1\exoLambda\exoLambda\obj\Debug\exoLambda.csproj.AssemblyReference.cache
+C:\Users\ASUS I7\OneDrive\Desktop\frameworks .NET\TP1\exoLambda\exoLambda\obj\Debug\exoLambda.csproj.SuggestedBindingRedirects.cache
+C:\Users\ASUS I7\OneDrive\Desktop\frameworks .NET\TP1\exoLambda\exoLambda\obj\Debug\exoLambda.csproj.CoreCompileInputs.cache
+C:\Users\ASUS I7\OneDrive\Desktop\frameworks .NET\TP1\exoLambda\exoLambda\bin\Debug\exoLambda.exe.config
+C:\Users\ASUS I7\OneDrive\Desktop\frameworks .NET\TP1\exoLambda\exoLambda\bin\Debug\exoLambda.exe
+C:\Users\ASUS I7\OneDrive\Desktop\frameworks .NET\TP1\exoLambda\exoLambda\bin\Debug\exoLambda.pdb
+C:\Users\ASUS I7\OneDrive\Desktop\frameworks .NET\TP1\exoLambda\exoLambda\obj\Debug\exoLambda.exe
+C:\Users\ASUS I7\OneDrive\Desktop\frameworks .NET\TP1\exoLambda\exoLambda\obj\Debug\exoLambda.pdb

@@ -1,0 +1,8 @@
+C:\Users\ASUS I7\OneDrive\Desktop\frameworks .NET\TP1\exercice_Delegate\exercice_Delegate\bin\Debug\exercice_Delegate.exe.config
+C:\Users\ASUS I7\OneDrive\Desktop\frameworks .NET\TP1\exercice_Delegate\exercice_Delegate\bin\Debug\exercice_Delegate.exe
+C:\Users\ASUS I7\OneDrive\Desktop\frameworks .NET\TP1\exercice_Delegate\exercice_Delegate\bin\Debug\exercice_Delegate.pdb
+C:\Users\ASUS I7\OneDrive\Desktop\frameworks .NET\TP1\exercice_Delegate\exercice_Delegate\obj\Debug\exercice_Delegate.csproj.AssemblyReference.cache
+C:\Users\ASUS I7\OneDrive\Desktop\frameworks .NET\TP1\exercice_Delegate\exercice_Delegate\obj\Debug\exercice_Delegate.csproj.SuggestedBindingRedirects.cache
+C:\Users\ASUS I7\OneDrive\Desktop\frameworks .NET\TP1\exercice_Delegate\exercice_Delegate\obj\Debug\exercice_Delegate.csproj.CoreCompileInputs.cache
+C:\Users\ASUS I7\OneDrive\Desktop\frameworks .NET\TP1\exercice_Delegate\exercice_Delegate\obj\Debug\exercice_Delegate.exe
+C:\Users\ASUS I7\OneDrive\Desktop\frameworks .NET\TP1\exercice_Delegate\exercice_Delegate\obj\Debug\exercice_Delegate.pdb
